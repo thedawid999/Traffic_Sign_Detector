@@ -82,4 +82,15 @@ Wählen Sie eine oder mehrere Methoden (`yolo_picutre()`, `yolo_live()`, `picutr
 
 ## 🎯 Ergebnisse
 
-Die Ergebnisse dieses Projekts sind im **outputs** Ordner zu finden
+Die Ergebnisse dieses Projekts sind ebenfalls im **outputs** Ordner zu finden
+
+| YOLO + CNN | YOLO only |
+|:---:|:---:|
+| <img width="1360" height="800" alt="0_detected_yolo_cnn" src="https://github.com/user-attachments/assets/1b8ad479-8b38-42c0-b883-5bc04f454c37" />  | <img width="1360" height="800" alt="0_detected_yolo_only" src="https://github.com/user-attachments/assets/45cd9aa0-46ba-40a6-8202-ca5dae94c001" /> |
+| <img width="1360" height="800" alt="1_detected_yolo_cnn" src="https://github.com/user-attachments/assets/eb450a40-b5c1-42a4-9a4a-5f4f67dcf1c0" /> | <img width="1360" height="800" alt="1_detected_yolo_only" src="https://github.com/user-attachments/assets/d6bb71af-9a7a-45ab-9d03-ee7a0276a8a2" /> | 
+| <img width="1360" height="800" alt="3_detected_yolo_cnn" src="https://github.com/user-attachments/assets/d20dfed0-5595-44e1-87c7-ef4ee92b8eb9" /> | <img width="1360" height="800" alt="3_detected_yolo_only" src="https://github.com/user-attachments/assets/c36f268d-5041-48d3-ae9a-497ddf5beed1" /> |
+| <img width="1307" height="262" alt="combined_detected_yolo_cnn" src="https://github.com/user-attachments/assets/f0cdc470-39d4-4a0f-903d-5ac71e72139f" /> | <img width="1307" height="262" alt="combined_detected_yolo_only" src="https://github.com/user-attachments/assets/8201cac5-cf57-4f82-bd8a-8a1ddf2c0e38" /> |
+| <img width="1200" height="500" alt="latency_fps_yolo_cnn" src="https://github.com/user-attachments/assets/8a71e3cc-5f5a-40a9-9f4a-e746f3587190" /> | <img width="1200" height="500" alt="latency_fps_yolo_only" src="https://github.com/user-attachments/assets/760a125f-eb11-4264-8165-b3d78284cdb6" /> |
+| <img width="1904" height="969" alt="Screenshot 2026-10-04 163456" src="https://github.com/user-attachments/assets/638c45bd-cc8c-42ae-83ad-16e9923d96e3" /> | <img width="1909" height="936" alt="Screenshot 2026-10-04 163439" src="https://github.com/user-attachments/assets/ef8b7bc4-c793-463b-ab21-de0402e0b22a" /> |
+
+
